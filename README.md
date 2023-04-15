@@ -11,3 +11,13 @@
 %autoreload 2
 from pkg.module import Class, function
 ```
+
+## TODO
+- Preprocessing (use HuggingFace)
+- Positional encoding
+- Input Embedding
+- Output Embedding
+- MHA
+    - self-attention
+- Encoder Block
+- Decoder Block
